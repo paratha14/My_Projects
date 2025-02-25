@@ -1,6 +1,6 @@
 import qrcode
 #Creating QR Code
-import qrcode
+
 
 website_link = 'https://youtu.be/xvFZjo5PgG0?feature=shared'
 
