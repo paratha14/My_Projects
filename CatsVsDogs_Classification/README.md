@@ -53,11 +53,11 @@ from keras import models, layers
 ```
 
 ## Future Improvements
--[**Data Augmentation:**] Implement more extensive data augmentation techniques to improve model generalization.
--[**Hyperparameter Tuning:**] Fine-tune the model's hyperparameters to potentially achieve even higher accuracy.
+- **Data Augmentation:** Implement more extensive data augmentation techniques to improve model generalization.
+- **Hyperparameter Tuning:** Fine-tune the model's hyperparameters to potentially achieve even higher accuracy.
 
--[**Deployment:**] Deploy the trained model for real-time image classification.
--[**Larger Dataset:**] Test the model on a much larger dataset.
+- **Deployment:** Deploy the trained model for real-time image classification.
+- **Larger Dataset:** Test the model on a much larger dataset.
 
 ## Author
 **Pratham Mohan**
