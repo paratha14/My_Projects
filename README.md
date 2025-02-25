@@ -48,7 +48,7 @@ Fork the repository.
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-##Contact
+## Contact
 For any questions or inquiries, please contact me at prathammohan3@gmail.com
 
 
